@@ -42,7 +42,7 @@ PlayerController 是主要的控制腳本，分成幾個部分。
 
 
 影片連結:　https://youtu.be/ShhOzIWQXis
-Github連結: 
+Github連結: https://github.com/yorushikasuisnbuna/1151VR-HW2-414261278-wjf/tree/main
 
 
 
